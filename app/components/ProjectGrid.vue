@@ -55,7 +55,7 @@ const projects = [
     title: 'Afromack Alternate Design',
     image: '/afromack2.png',
     description: '',
-    link: 'https://www.figma.com/design/hpZt2jazAndcCcygTOKS9S/lanix.technology?node-id=0-1&t=jOQTwz1qbqlVQqKB-1'
+    link: 'https://www.figma.com/design/zrXYDrTLZ4WpOpI5LjZCMS/Afromark-Website?node-id=2-4&p=f&t=PJB34wEBOlYYSfXt-0'
   }
 ]
 </script>
