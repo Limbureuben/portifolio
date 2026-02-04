@@ -6,9 +6,9 @@ export default defineNuxtConfig({
   srcDir: 'app',
   app: {
     head: {
-      title: 'Oscar Antonio - Portfolio',
+      title: 'Reuben Limbu - Portfolio',
       meta: [
-        { name: 'description', content: 'Portfolio of Oscar Antonio Morato Pantoja, UX Designer.' }
+        { name: 'description', content: 'Portfolio of Reuben Limbu, UX Designer.' }
       ],
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

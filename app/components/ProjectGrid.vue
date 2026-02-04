@@ -49,13 +49,13 @@ const projects = [
     title: 'Afromack website',
     image: '/afromack.png',
     description: '',
-    link: '#'
+    link: 'https://www.figma.com/design/hpZt2jazAndcCcygTOKS9S/lanix.technology?node-id=0-1&t=jOQTwz1qbqlVQqKB-1'
   },
   {
     title: 'Afromack Alternate Design',
     image: '/afromack2.png',
     description: '',
-    link: '#'
+    link: 'https://www.figma.com/design/hpZt2jazAndcCcygTOKS9S/lanix.technology?node-id=0-1&t=jOQTwz1qbqlVQqKB-1'
   }
 ]
 </script>
