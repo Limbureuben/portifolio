@@ -1,7 +1,7 @@
 <template>
   <aside class="sidebar animate-fade-in">
     <div class="profile-image-container">
-      <img src="/profileimage.jpeg" alt="Oscar Antonio Morato Pantoja" class="profile-image" />
+      <img src="/profileimage.jpeg" alt="Reuben Limbu" class="profile-image" />
     </div>
     <div class="profile-info">
       <h1 class="name">REUBEN LIMBU</h1>
