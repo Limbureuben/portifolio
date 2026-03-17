@@ -56,6 +56,12 @@ const projects = [
     image: '/afromack2.png',
     description: '',
     link: 'https://www.figma.com/design/zrXYDrTLZ4WpOpI5LjZCMS/Afromark-Website?node-id=2-4&p=f&t=PJB34wEBOlYYSfXt-0'
+  },
+  {
+    title: 'Ferntastic friday',
+    image: '/fern.png',
+    description: '',
+    link: 'https://www.figma.com/design/aT5V4O6GI2bHJcsohTM79v/Pigabet?node-id=0-1&t=HTiBwVKWi9dBSCNO-1'
   }
 ]
 </script>
